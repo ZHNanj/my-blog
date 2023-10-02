@@ -1,0 +1,20 @@
+[
+  {
+    "title": "blog",
+    "cover": "img/my-blog-cover.png",
+    "url": "",
+    "description": "个人博客，使用NextJs搭建"
+  },
+  {
+    "title": "queerecho",
+    "cover": "img/queerecho.png",
+    "url": "",
+    "description": "一个小众社交网站，前端使用React、TailwindCss、NextUI，后端使用Nest、Typeorm、PostgreSQL"
+  },
+  {
+    "title": "天天家政",
+    "cover": "img/housework.png",
+    "url": "",
+    "description": "家政预约平台，前端使用React、后端使用Spring Boot"
+  }
+]
