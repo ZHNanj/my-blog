@@ -2,7 +2,7 @@
 **你好！我是绕地球一周！👋**  
 **Hello! I am Zhou!👋**
 
-上有天堂，下有苏杭。我毕业于杭电信院计算机科学与技术专业，毕业后一直从事软件开发工作。
+上有天堂，下有苏杭。我毕业于杭电计算机科学与技术专业，毕业后一直从事软件开发工作。
 
 I graduated from Hangzhou Dianzi University with a degree in Computer Science and Technology. After graduation, I've been dedicated to software development.
 
@@ -18,6 +18,6 @@ As a developer, I believe that the quality of each independent development proje
 `React` `NextJs` `JavaScript` `TypeScript` `NestJs` `Typeorm` `SpringBoot` `MyBatis` `SpringCloud` `Docker` `MySQL` `PostgreSQL` `Redis` `Docker` `Serverless` `MiniProgran` `Gin`
 
 ## 联系我
-[Github](https://github.com/ZHNanj)  
-**Email**：<aijnan.zh@gmail.com>  
+[GitHub](https://github.com/ZHNanj)  
+**Email**：aijnan.zh@gmail.com
 **Wechat**: tiamo99520

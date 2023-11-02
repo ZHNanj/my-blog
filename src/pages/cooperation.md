@@ -10,10 +10,7 @@
 
 在项目开发完成后，我们将为您提供一年的免费维护服务。从第二年开始，维护费用将按照开发费用的30%计算
 
-### 远程全职
-由于父母年迈，我正在寻找合适的远程工作机会，同时也愿意进行合作开发。如果您对此有兴趣，请随时联系我
-
 ### 联系我
 [Github](https://github.com/ZHNanj)  
-**Email**：<aijnan.zh@gmail.com>  
+**Email**：aijnan.zh@gmail.com  
 **Wechat**: tiamo99520

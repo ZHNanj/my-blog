@@ -9,7 +9,7 @@
     "title": "queerecho",
     "cover": "img/queerecho.png",
     "url": "",
-    "description": "一个小众社交网站，前端使用React、TailwindCss、NextUI，后端使用Nest、Typeorm、PostgreSQL"
+    "description": "一个小众社交网站，前端使用React、TailwindCSS、NextUI，后端使用Nest、Typeorm、PostgreSQL"
   },
   {
     "title": "天天家政",
