@@ -33,7 +33,7 @@ const config = {
         },],
     title: '飞行器的执行周期',
     tagline: 'Dinosaurs are cool',
-    favicon: 'img/favicon.ico',
+    favicon: 'img/logo.png',
 
     // Set the production url of your site here
     url: 'https://your-docusaurus-test-site.com',
@@ -92,7 +92,7 @@ const config = {
                 title: '',
                 logo: {
                     alt: 'My Site Logo',
-                    src: 'img/logo.svg',
+                    src: 'img/favicon.ico',
                 },
                 items: [
                     {
@@ -112,40 +112,40 @@ const config = {
                 ],
             },
             footer: {
-                style: 'dark',
-                links: [
-                    {
-                        title: 'Docs',
-                        items: [
-                            {
-                                label: '教程',
-                                to: '/docs/intro',
-                            },
-                        ],
-                    },
-                    {
-                        title: 'Community',
-                        items: [
-                            {
-                                label: 'Telegram',
-                                href: 'https://telegram.org/dl',
-                            }
-                        ],
-                    },
-                    {
-                        title: 'More',
-                        items: [
-                            {
-                                label: '博客',
-                                to: '/blog',
-                            },
-                            {
-                                label: 'GitHub',
-                                href: 'https://github.com/ZHNanj',
-                            },
-                        ],
-                    },
-                ],
+                // style: 'dark',
+                // links: [
+                //     {
+                //         title: 'Docs',
+                //         items: [
+                //             {
+                //                 label: '教程',
+                //                 to: '/docs/intro',
+                //             },
+                //         ],
+                //     },
+                //     {
+                //         title: 'Community',
+                //         items: [
+                //             {
+                //                 label: 'Telegram',
+                //                 href: 'https://telegram.org/dl',
+                //             }
+                //         ],
+                //     },
+                //     {
+                //         title: 'More',
+                //         items: [
+                //             {
+                //                 label: '博客',
+                //                 to: '/blog',
+                //             },
+                //             {
+                //                 label: 'GitHub',
+                //                 href: 'https://github.com/ZHNanj',
+                //             },
+                //         ],
+                //     },
+                // ],
                 copyright: `Copyright © ${new Date().getFullYear()} 绕地球一周, Inc. Built with Docusaurus.`,
             },
             prism: {
